@@ -1,4 +1,4 @@
-# AI Chatbot — Full-Stack Production Application
+# AI-powered developer interaction platform with persistence and modular LLM infra
 ### Built with Next.js 15 · Vercel AI SDK 5 · xAI Grok · PostgreSQL · Drizzle ORM
 
 ---
